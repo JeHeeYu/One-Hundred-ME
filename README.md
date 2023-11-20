@@ -1,19 +1,18 @@
-# one_hundred_me
+# 백미
 
-A new Flutter project.
+## 프로젝트 개요
+100일 챌린지를 도와주는 웹앱 어플리케이션
 
-## Getting Started
+## 개발 기간
+2023.09.18 ~ 2023.09.24
 
-This project is a starting point for a Flutter application.
+## 주요 화면
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|<img src="https://github.com/JeHeeYu/One-Hundred-ME/assets/87363461/6012d4c8-d34c-4379-8674-7bcc04cb5460" width="240" height="430">|<img src="https://github.com/JeHeeYu/One-Hundred-ME/assets/87363461/d6b05b83-3d70-4c6f-ac28-0ace71ce07a5" width="240" height="430">|<img src="https://github.com/JeHeeYu/One-Hundred-ME/assets/87363461/6eaf3dc4-d00c-4573-97fa-f58e5b9da9f8" width="240" height="430">|
+|:---:|:---:|:---:|
+|<b>스플래시 화면</b>|<b>시작 화면</b>|<b>배경 선택 화면</b>|
+|<img src="https://github.com/JeHeeYu/One-Hundred-ME/assets/87363461/cfb41b7b-f45d-42e5-970e-2dd5d102e582" width="240" height="430">|<img src="https://github.com/JeHeeYu/One-Hundred-ME/assets/87363461/f43a66b7-ab2b-4ca3-a93d-470b9980e493" width="240" height="430">|
+|<b>빈칸 선택 화면</b>|<b>성공 스탬프 선택 화면</b>|
 
 ## Install Package
 
